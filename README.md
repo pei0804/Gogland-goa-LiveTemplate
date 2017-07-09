@@ -6,9 +6,9 @@ Please cool PR
 
 ## Naming convention
 
-- goa_hoge
-- goa_r_hoge (resource)
-- goa_m_hoge (media)
+- goa-hoge
+- goa-r-hoge (resource)
+- goa-m-hoge (media)
 
 ## demo
 
